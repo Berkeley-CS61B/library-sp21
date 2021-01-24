@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 17 01:44:03 PST 2021
+checkstyle-5.9-all.jar-5.9.pom>=
+checkstyle-5.9-all.jar-5.9.jar>=

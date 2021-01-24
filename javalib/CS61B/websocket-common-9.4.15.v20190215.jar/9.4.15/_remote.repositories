@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 17 02:01:42 PST 2021
+websocket-common-9.4.15.v20190215.jar-9.4.15.jar>=
+websocket-common-9.4.15.v20190215.jar-9.4.15.pom>=

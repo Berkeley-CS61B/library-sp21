@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 17 02:01:27 PST 2021
+slf4j-api-1.7.26.jar-1.7.26.jar>=
+slf4j-api-1.7.26.jar-1.7.26.pom>=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 17 01:08:57 PST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1610872048545
+@default-JavaLib-/Users/Arjun/Documents/Berkeley/TA/sp21-CS61B/staff-skeleton-sp21/proj0/.lastUpdated=1610874537849
+https\://repo.maven.apache.org/maven2/.error=
+/Users/Arjun/Documents/Berkeley/TA/sp21-CS61B/staff-skeleton-sp21/proj0/.error=Could not transfer artifact CS61B\:xchart-3.5.1.jar\:pom\:unknown from/to JavaLib (/Users/Arjun/Documents/Berkeley/TA/sp21-CS61B/staff-skeleton-sp21/proj0)\: Cannot access /Users/Arjun/Documents/Berkeley/TA/sp21-CS61B/staff-skeleton-sp21/proj0 with type default using the available connector factories\: BasicRepositoryConnectorFactory

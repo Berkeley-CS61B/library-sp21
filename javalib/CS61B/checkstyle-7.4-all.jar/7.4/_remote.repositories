@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 17 01:45:15 PST 2021
+checkstyle-7.4-all.jar-7.4.jar>=
+checkstyle-7.4-all.jar-7.4.pom>=
